@@ -1,1 +1,0 @@
-streamlit run "/Users/tgm/Desktop/Multiple Disease Prediction/Multiple disease pred.py"
